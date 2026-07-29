@@ -16,7 +16,7 @@ let package = Package(
         .target(
             name: "MTSlideToOpen",
             dependencies: [],
-            path: "Sources/MTSlideToOpen"
+            path: "Source"
         )
     ]
 )
